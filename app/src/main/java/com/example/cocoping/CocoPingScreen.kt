@@ -32,6 +32,8 @@ fun CocoPingScreen(viewModel: CocoPingViewModel) {
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.SpaceBetween
     ) {
+        Spacer(modifier = Modifier.height(2.dp))
+
         Column(
             modifier = Modifier
                 .fillMaxWidth()
