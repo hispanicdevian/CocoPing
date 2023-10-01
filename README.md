@@ -1,4 +1,6 @@
 # CocoPing
 Official Ping Request App Ianta
 - MVVM
-- Compose
+- Jetpack Compose
+- Portrait & Landscape View
+- Logos Done By Me
