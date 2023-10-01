@@ -1,5 +1,5 @@
 # CocoPing
-Official Ping Request App Ianta
+Ping Request App By Ianta
 - MVVM
 - Jetpack Compose
 - Portrait & Landscape View
