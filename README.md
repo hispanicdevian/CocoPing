@@ -7,8 +7,7 @@ Official Ping Request App Ianta
 - Logos Done By Me
 
 # Features:
-
-![CocoPingFeatureAAA](https://github.com/ianttta/CocoPing/assets/135581442/ed57ff7b-a9c8-4f31-96fe-5db1565537a3)
+![CocoPingFeatureAAA](https://github.com/ianttta/CocoPing/assets/135581442/6d6ecde6-112a-45d4-949a-47210b5a7823)
 
 # Demo:
 [CocoPingVideoDemoAAA.webm](https://github.com/ianttta/CocoPing/assets/135581442/78f31695-d064-477c-ab5e-b54d74a94d88)
